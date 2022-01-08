@@ -4,5 +4,5 @@
 env.COMPONENT = "payment"
 env.BUILD_LABEL = "WORKSTATION"
 
-// Library Groovy files
+// Library Groovy file
 python()
